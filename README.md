@@ -5,4 +5,4 @@ my coursework at the Univeristy of Nevada, Reno.
 
 
 Note:
-All SQL queries were written 100% by me, Connor Nichols.
+All SQL queries were written 100% by me.
